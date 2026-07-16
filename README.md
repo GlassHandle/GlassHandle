@@ -32,6 +32,8 @@ I build things from the ground up — **network protocols without libraries**, *
 - ⚔️ winner — inter-branch **CTF & competitive programming**, IIT Jammu
 - 🧠 **1000+ problems** solved on LeetCode
 - 🐛 responsibly disclosed a security vulnerability in the IIT Jammu placement portal
+- ⚙️ currently building a programming language from scratch after scrapping my LLVM prototype
+- 🌍 built atmospheric AQI & HCHO transport models — preparing them for open-source release
 
 ## `02 //` UNITS DEPLOYED
 
