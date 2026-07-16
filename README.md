@@ -66,11 +66,10 @@ I build things from the ground up — **network protocols without libraries**, *
 <img src="https://img.shields.io/badge/Git-0a0510?style=for-the-badge&logo=git&logoColor=ff4444" /> <img src="https://img.shields.io/badge/Docker-0a0510?style=for-the-badge&logo=docker&logoColor=ff4444" />
 
 ## `04 //` TELEMETRY
-
-<!-- <div align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=glassHandle&show_icons=true&hide_border=true&bg_color=050308&title_color=ff4444&icon_color=ff4444&text_color=9a8f96&ring_color=ff4444" alt="github stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glassHandle&layout=compact&langs_count=8&hide_border=true&bg_color=050308&title_color=ff4444&text_color=e8e4e6" alt="top languages" />
-</div> -->
+</div> 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=glassHandle&hide_border=true&background=050308&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&sideLabels=9a8f96&currStreakNum=e8e4e6&sideNums=e8e4e6&dates=5d545b" alt="streak" />
